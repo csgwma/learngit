@@ -8,3 +8,4 @@ modifing  for test.67a4b5e after rm test2.txt
 Creating a new branch is quick.
 Creating a new branch is quick.1
 Creating a new branch is quick.2
+Creating a new branch is quick.3
